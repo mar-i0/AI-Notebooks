@@ -11,6 +11,7 @@ Este repositorio contiene tres archivos Jupyter Notebooks:
 ![Modelo Vicuna de Berkeley, CMU, Standford y San Diego](https://github.com/mar-i0/AI-Notebooks/blob/main/Vicuna2.jpg)
 
 3. Dolly.ipynb: Me encanta! Es la versión 2 de Dolly. Aunque dicen que no es tan bueno como Vicuna a mi me ha dado buenas impresiones pero es necesarios hacer unos benchmarks más exhaustivos que haré en futuro cercano con una bateria de preguntas a la IA.
+![Modelo Dolly2](https://i.ytimg.com/vi/kZazs6V3314/maxresdefault.jpg)
 ![Modelo Dolly2](https://github.com/mar-i0/AI-Notebooks/blob/main/Dolly2.jpg)
 
 4. GPT4all.ipynb: Este modelo a mi parecer es el menos potente de todos.
