@@ -6,6 +6,7 @@ Este repositorio contiene tres archivos Jupyter Notebooks:
 ![Modelo Alpaca LoRA Miolini](https://github.com/mar-i0/AI-Notebooks/blob/main/Alpaca_LoRA_Miolini.jpg)
 
 2. Chinese_Vicuna_finetune.ipynb: Vicuna es uno de mis favoritos, el proyecto original tenía algunos errores en python y unos desarrolladores chinos han corregido el modelo y este se puede entrenar y todo. Aqui tenéis el código funcional.
+![Logo de Vicuna generado con Stable Diffusion 2.1] (https://vicuna.lmsys.org/favicon.jpeg)
 ![Modelo Vicuna de Berkeley, CMU, Standford y San Diego](https://github.com/mar-i0/AI-Notebooks/blob/main/Vicuna1.jpg)
 ![Modelo Vicuna de Berkeley, CMU, Standford y San Diego](https://github.com/mar-i0/AI-Notebooks/blob/main/Vicuna2.jpg)
 
